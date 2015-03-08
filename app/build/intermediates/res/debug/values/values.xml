@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/abhibhat.ORADEV/AndroidStudioProjects/Liberate/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="menu_item">
+        <item>New Game</item>
+        <item>Level</item>
+        <item>Solve</item>
+        <item>Score</item>
+        <item>About</item>s
+        <item>Help</item>
+        <item>Exit</item>
+    </string-array>
+    <string name="app_name">Liberate</string>
+    <string name="button_text">Solve</string>
+    <string name="drawer_close">Hide Menu</string>
+    <string name="drawer_open">Show Menu</string>
+    <string name="hint_test">Total Score</string>
+    <string name="liberated">locked</string>
+    <string name="locked">liberated</string>
+    <string name="score_text">Score</string>
+</resources>
